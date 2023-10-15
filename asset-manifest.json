@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/21BAI1308_REACT_TASK1/static/css/main.a2ba9912.css",
+    "main.js": "/21BAI1308_REACT_TASK1/static/js/main.4ccc4394.js",
+    "index.html": "/21BAI1308_REACT_TASK1/index.html",
+    "main.a2ba9912.css.map": "/21BAI1308_REACT_TASK1/static/css/main.a2ba9912.css.map",
+    "main.4ccc4394.js.map": "/21BAI1308_REACT_TASK1/static/js/main.4ccc4394.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2ba9912.css",
+    "static/js/main.4ccc4394.js"
+  ]
+}
